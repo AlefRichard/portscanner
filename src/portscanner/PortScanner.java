@@ -45,6 +45,7 @@ public class PortScanner {
 			portasAbertas++;
 		}
 	}
+        
 	System.out.println("Existem " + portasAbertas + " portas abertas nesse host " + ip);
     }
 
